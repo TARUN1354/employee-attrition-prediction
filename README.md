@@ -1,8 +1,6 @@
-The README text for your GitHub repository could include the following, based on the link shared for the Employee Attrition Prediction Project, wherein Jupyter Notebook was used for implementation:
+Employee Attrition Prediction - This project uses machine learning techniques to predict employee attrition and identify employees at risk of leaving the organization after analyzing factors such as job satisfaction, promotion history, and other relevant features. 
 
-Employee Attrition Prediction - This project aims at using machine learning techniques to predict employee attrition and identify those employees that are risk of leaving the organization after analyzing various factors such as job satisfaction, promotion history and other relevant features. 
-
-Project Overview - Employee attrition is a huge problem for organizations, raising recruitment costs and causing loss of good talent. The prediction of attrition allows the organization to take action to retain these employees. This project will explore various machine learning algorithms in forecasting employee turnover based on historical data. 
+Project Overview - Employee attrition is a huge problem for organizations, raising recruitment costs and causing loss of good talent. The attrition prediction allows the organization to take action to retain these employees. This project will explore various machine learning algorithms in forecasting employee turnover based on historical data. 
 
 Dataset - The dataset used in this project consists of anonymized employee records that include features such as age, job role, salary, time spent at the company, job satisfaction, and more. Each record denotes the leaving of the employee from the organization, serving as the target variable for prediction. 
 
